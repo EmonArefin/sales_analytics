@@ -5,8 +5,7 @@
 For detailed information and usage examples, refer to the [Sales API Postman Documentation](https://documenter.getpostman.com/view/29225339/2s9YsJDDW4).
 
 ## API Endpoints
-
-### Create Product
+<!-- ### Create Product
 
 - **Endpoint:** `POST /api/products/create-product`
 - **Description:** Create a new product.
@@ -29,7 +28,7 @@ For detailed information and usage examples, refer to the [Sales API Postman Doc
 ### Delete Product
 
 - **Endpoint:** `POST /api/products/delete-product/:id`
-- **Description:** Delete a specific product by ID.
+- **Description:** Delete a specific product by ID. -->
 
 ### Total Revenue
 
