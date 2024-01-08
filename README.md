@@ -1,5 +1,9 @@
 # Sales API Documentation
 
+## Postman Documentation
+
+For detailed information and usage examples, refer to the [Sales API Postman Documentation](https://documenter.getpostman.com/view/29225339/2s9YsJDDW4).
+
 ## API Endpoints
 
 ### Create Product
@@ -62,6 +66,4 @@
 - **Endpoint:** `GET /api/sales/department-salary-expense`
 - **Description:** Calculate and return the total salary expense for each department.
 
-## Postman Documentation
 
-For detailed information and usage examples, refer to the [Sales API Postman Documentation](https://documenter.getpostman.com/view/29225339/2s9YsJDDW4).
